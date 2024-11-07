@@ -1,0 +1,59 @@
+Hexxer Privacy Policy
+Effective Date: 7th of November 2024
+________________________________________
+1. Introduction
+
+Welcome to Hexxer. This Privacy Policy explains how Hexxer (“we,” “us,” or “our”) collects, uses, and protects your information when you interact with Hexxer, the Discord bot that provides role color customization. We are committed to protecting your privacy and ensuring compliance with Discord’s API guidelines.
+By using Hexxer, you consent to the practices described in this Privacy Policy. If you do not agree to this Privacy Policy, please refrain from using Hexxer.
+_____________________________
+___________
+2. Information We Collect
+Hexxer is designed to respect user privacy and collect only the minimal data necessary for its functionality. We do not collect, store, or share personal information. Here’s what we access and process:
+•	User Commands: When you send commands to Hexxer (such as requesting a color change), Hexxer temporarily processes the command in order to execute the requested action. This data is not stored and is discarded after the command is completed.
+•	Server and Role Information: Hexxer accesses server settings, role hierarchies, and permissions only to:
+o	Assign custom color roles to users as requested,
+o	Check Hexxer’s role position in the hierarchy for color display functionality, and
+o	Ensure Hexxer operates without conflict with other roles.
+•	Server message history in real-time to the applicable range of commands needed for basic function.
+________________________________________
+3. How We Use Information
+
+Hexxer uses the information it temporarily processes to:
+•	Execute user commands for color customization,
+•	Generate role colors based on user-provided hex codes,
+•	Assign and manage roles within a server to ensure proper functionality of color customization,
+•	Verify that Hexxer’s role is positioned correctly in the server hierarchy for color display.
+All data accessed or processed by Hexxer is used solely for these operational purposes and is not stored, transmitted, or shared with third parties.
+________________________________________
+4. Data Retention and Security
+
+•	Temporary Data Processing: Hexxer processes data in real-time and does not store any user data or server information after the command is completed.
+•	No Data Storage: Hexxer does not retain any personal data or user commands after processing is complete. Hexxer operates solely in memory and does not create logs of interactions or store any identifiable information about users or servers.
+•	Security Practices: Hexxer operates according to Discord’s API guidelines and best practices, ensuring that data is only accessed in a secure and limited manner. Hexxer does not connect to any third-party services or databases, reducing risks related to data storage or transmission.
+________________________________________
+5. Sharing of Information
+
+Hexxer does not share, sell, or disclose any data with third parties. Since Hexxer does not store or retain any user or server data, there is no information available to be shared or disclosed.
+________________________________________
+6. Compliance with Discord’s Terms and Privacy Policy
+
+Hexxer adheres to Discord’s Terms of Service and Privacy Policy. Hexxer only accesses information permissible by Discord’s API, and we ensure that Hexxer’s data processing practices remain fully compliant with Discord’s privacy and security standards.
+________________________________________
+7. Children’s Privacy
+
+Hexxer is intended for users who are at least 13 years old, consistent with Discord’s Terms of Service. Hexxer does not knowingly collect or store any information about children under 13. By using Hexxer, you confirm that you meet the minimum age requirement for Discord.
+________________________________________
+8. Your Data Rights
+
+Since Hexxer does not collect, store, or retain any personal information, there are no user data rights to exercise under data protection laws, such as the right to access, modify, or delete personal data. Hexxer processes all data in real-time and discards it immediately after the requested command is completed.
+If you have any questions or concerns about data privacy with Hexxer, you may contact us directly (see Contact Information below).
+________________________________________
+9. Changes to this Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be effective immediately upon posting the updated Privacy Policy. By continuing to use Hexxer after any changes are posted, you agree to the revised policy. It is your responsibility to review this Privacy Policy periodically for updates.
+________________________________________
+10. Contact Information
+
+If you have questions or concerns about Hexxer’s Privacy Policy or data processing practices, please contact Discord user .m_82 .
+________________________________________
+By using Hexxer, you acknowledge that you have read, understood, and agreed to this Privacy Policy.
