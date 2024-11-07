@@ -1,4 +1,5 @@
 Hexxer Terms of Service
+
 Last Updated: 7th of November 2024
 ________________________________________
 1. Agreement to Terms
